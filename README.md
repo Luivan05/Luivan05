@@ -1,2 +1,2 @@
-# $${\color{red}Welcome \space \color{lightblue}To \space \color{lightgreen}{github}}$$
+# $${\color{red}litt \space \color{lightblue}om \space \color{lightgreen}{meg}}$$
 ## Studerer It og informasjonssystemer på UIA
